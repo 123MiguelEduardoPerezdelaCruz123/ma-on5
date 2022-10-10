@@ -42,3 +42,18 @@ Git fetch: Descarga los cambios realizados en el repositorio remoto.
 
 Git merge <nombre_rama>: Impacta en la rama en la que te encuentras parado, los cambios realizados en la rama “nombre_rama”.
 
+Glosario de Terminos
+
+Ramas:
+ Son espacios o entornos independientes para que un Desarrollador sea Back-end, Front-end, Tester, etc. pueda usar y así trabajar sobre un mismo Proyecto sin chancar o borrar el conjunto de archivos originales del proyecto, dándonos flexibilidad para desarrollar nuestro proyecto de manera mas organizada.
+
+Directorio:
+ Es un contenedor virtual en el que se almacenan una agrupación de archivos informáticos y otros subdirectorios, atendiendo a su contenido, a su propósito o a cualquier criterio que decida el usuario.
+
+Repositorio: 
+Es una ubicación central de almacenamiento de archivos. Es utilizado por control de versiones sistemas para almacenar múltiples versiones de archivos. Si bien un repositorio se puede configurar en una máquina local para un solo usuario, a menudo se almacena en un servidor, al que pueden acceder varios usuarios.
+
+Repositorio remoto:
+son versiones de tu proyecto que están hospedadas en Internet o en cualquier otra red. Puedes tener varios de ellos, y en cada uno tendrás generalmente permisos de solo lectura o de lectura y escritura.
+
+
